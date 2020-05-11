@@ -38,11 +38,11 @@
   Let's check out keys in memory (by 'p')
   ![Screenshot](screenshots/screenshot_14.png)
   
-## 5. Imported from file:
+## 5. Import from file:
   words can be imported from file by 'i' command. [note that words must be seperated by newlines (\n).]
   ![Screenshot](screenshots/screenshot_16.png)
  
-## 6. Export from file:
+## 6. Export to file:
   export ('e') command exports all keys in memory into a file.
   ![Screenshot](screenshots/screenshot_16.png)
   next it asks that what to do with keys that are less than '8' number of characters.
